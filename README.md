@@ -17,4 +17,5 @@ I learn a lot of stuff related to data science skills. This bootcamp has 10 spin
 - Essemtial Python for Data Analyst
 - Dashboard
 
+You can find me on likedin https://www.linkedin.com/in/purichaya-wichaidit/
 
