@@ -38,7 +38,7 @@ model <- train(medv ~ rm + b + crim,
 
 # 3. score / predict new data (test / unseen data)
 
-p <- predict(model, newdata =  test_dat)
+p <- predict(model, newdata =  test_data)
 
 # 4. evaluate model  => absolute metrics
 
